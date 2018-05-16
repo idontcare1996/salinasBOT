@@ -1,0 +1,1 @@
+Apenas correr o módulo tp1_program.py.
