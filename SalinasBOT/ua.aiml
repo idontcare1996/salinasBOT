@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0">
+	<category>
+		<pattern>WHAT IS UA</pattern>
+		<template>It is "one of the most dynamic and innovative universities in Portugal. Now a public foundation under private law, it continues to develop and implement its mission to provide undergraduate and postgraduate education, to generate research and promote cooperation with society."
+		</template>
+	</category>
+	<category>
+		<pattern>WHEN * CREATED</pattern>
+		<template>The University of Aveiro was created on 15th December of 1973.</template>
+	</category>
+	<category>
+		<pattern>WHERE * LOCATED</pattern>
+		<template>It is located in the center of the city, near the hospital and the old football stadium.</template>
+	</category>
+	<category>
+		<pattern>HOW MANY DEPARTMENTS *</pattern>
+		<template>University of Aveiro has a total of 16 departments.</template>
+	</category>
+	<category>
+		<pattern>HOW MANY STUDENTS *</pattern>
+		<template>It has 14.280 students.</template>
+	</category>
+	<category>
+		<pattern>* PLACES TO EAT</pattern>
+		<template>"On Campus, there are two dining areas, a snack bar, a restaurant and several units with permanent bar and cafeteria service, where light meals are served."</template>
+	</category>
+	<category>
+		<pattern>* MEALS SERVED IN THE CANTEENS</pattern>
+		<template>"In the canteens of Santiago and Crasto, a meal includes bread, soup, salad, fruit or dessert and water. Consumers may also opt for a diet, a vegetarian or an alternative (extra) meal, supplementary to the social one."</template>
+	</category>
+	<category>
+		<pattern>* MEAL PRICES</pattern>
+		<template>"Meals can be purchased from two and a half euros up upon prior acquisition of a meal-ticket, sold in vending machines located in each dining area's hall."</template>
+	</category>
+	<category>
+		<pattern>WHAT COURSES *</pattern>
+		<template>It offers a wide range of subjects and degrees. For more information here are some useful links: </template>
+	</category>
+	<category>
+		<pattern>* LIBRARY</pattern>
+		<template>It has 3 libraries. The Main Library, the Mediateca and ISCAA's library.</template>
+	</category>
+	<category>
+		<pattern>* SCHEDULES</pattern>
+		<template>Information about the library, SGA and canteens schedules can be found in the links below:</template>
+	</category>
+	<category>
+		<pattern>* ACCOMMODATION</pattern>
+		<template>"On the campuses of Santiago and Crasto, the UA has halls of residences, consisting of 34 residential blocks, with a total of 1,044 beds, in single or shared rooms, equipped with kitchen, laundry and study rooms. These housing units accommodate graduate and post-graduate students who request this service."
+		</template>
+	</category>
+</aiml>
